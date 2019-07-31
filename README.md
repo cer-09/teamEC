@@ -1,11 +1,29 @@
 # teamEC
+
+
 チーム製作（ECサイト）での担当箇所のみ抜粋しています。
 
+
+
 ・検索機能
-  SearchItemAction
-  MCategoryDAO/MCategoryDTO
-  ProductInfoDAO/ProductInfoDTO
+
+
+SearchItemAction
+
+
+MCategoryDAO/MCategoryDTO
+
+
+ProductInfoDAO/ProductInfoDTO
+
+
 ・ホーム画面
-  HomeAction
+
+
+HomeAction
+
+
 ・ヘッダー
-  Header.jsp/header.css
+
+
+Header.jsp/header.css
